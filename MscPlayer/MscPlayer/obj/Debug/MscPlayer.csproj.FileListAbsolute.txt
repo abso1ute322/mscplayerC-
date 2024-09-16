@@ -1,0 +1,13 @@
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\bin\Debug\MscPlayer.exe.config
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\bin\Debug\MscPlayer.exe
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\bin\Debug\MscPlayer.pdb
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\obj\Debug\MscPlayer.csproj.AssemblyReference.cache
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\obj\Debug\MscPlayer.Form1.resources
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\obj\Debug\MscPlayer.Properties.Resources.resources
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\obj\Debug\MscPlayer.csproj.GenerateResource.cache
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\obj\Debug\MscPlayer.csproj.CoreCompileInputs.cache
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\obj\Debug\MscPlayer.exe
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\obj\Debug\MscPlayer.pdb
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\lol22\source\repos\MscPlayer\MscPlayer\obj\Debug\MscPlayer.csproj.ResolveComReference.cache
